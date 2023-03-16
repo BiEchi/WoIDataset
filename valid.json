@@ -1,1 +1,16 @@
-{ "dialog": [ [  {"id": "partner1", "text": "hello how are you today?"},  {"id": "partner2", "text": "i'm great thanks! what are you doing?"},  {"id": "partner1", "text": "i've just been bikinig."},        {"id": "partner2", "text": "oh nice, i haven't got on a bike in years!"} ] ]}
+{ "dialog": 
+ [ 
+   [  
+     {"id": "bot", "text": "hello how are you today?"},  
+     {"id": "user", "text": "i'm great thanks! what are you doing?"},  
+     {"id": "bot", "text": "i've just been bikinig."},        
+     {"id": "user", "text": "oh nice, i haven't got on a bike in years!"} 
+   ],
+   [
+     {"id": "bot", "text": "who is messi?"},  
+     {"id": "user", "text": "messi is a great footballer"},  
+     {"id": "bot", "text": "great!"},        
+     {"id": "user", "text": "I'm messi!"} 
+   ]
+ ]
+}
